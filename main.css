@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Parisienne;
+  src: url('Parisienne-Regular copy.ttf');
+}
+
+h1 {
+	color: #343740;
+	font-family: Parisienne;
+	font-size: 50px;
+	margin-top: 2em;
+	text-align: center;
+}
+
+html {
+	background-color: #F2F2F2;
+}
