@@ -47,10 +47,10 @@ body {
 
 #icon-menu ul {
 	list-style-type: none;
-	padding-left: 29em;
+	padding-left: 30em;
 }
 
 #icon-menu ul li {
 	display: inline;
-	margin: 15px;
+	margin: 10px;
 }
