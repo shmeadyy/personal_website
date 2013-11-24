@@ -10,11 +10,8 @@ h1 {
 	text-align: center;
 }
 
-html {
-	background-color: #F2F2F2;
-}
-
 body {
+	background-image: url('colorful_wood.jpeg');
 	font-size: 16px;
 	font-family: 'Shadows Into Light';
 }
