@@ -1,11 +1,6 @@
-@font-face {
-  font-family: Parisienne;
-  src: url('Parisienne-Regular copy.ttf');
-}
-
 h1 {
-	color: #343740;
-	font-family: Parisienne;
+	color: #222B40;
+	font-family: 'Libre Baskerville', serif;
 	font-size: 50px;
 	text-align: center;
 }
@@ -19,7 +14,7 @@ body {
 #picture img {
 	margin-top: 3em;
 	margin-left: 37.5em;
-	border: 7px #94C6F2 solid;
+	border: 5px #222B40 solid;
 	border-radius: 1em;
 }
 
@@ -28,7 +23,7 @@ body {
 	padding: 5px; 
 	list-style-type: none; 
 	text-align: center; 
-	background-color: #7E8C4A; 
+	background-color: #222B40; 
 } 
 
 #navbar ul li {  
@@ -42,11 +37,11 @@ body {
 	text-decoration: none; 
 	padding: .2em 1em; 
 	color: #F2F2F2; 
-	background-color: #7E8C4A; 
+	background-color: #222B40; 
 } 
 
 #navbar ul li a:hover { 
-	color: #7E8C4A; 
+	color: #222B40; 
 	background-color: #F2F2F2; 
 } 
 
