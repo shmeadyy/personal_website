@@ -1,0 +1,64 @@
+@font-face {
+  font-family: Parisienne;
+  src: url('Parisienne-Regular copy.ttf');
+}
+
+h1 {
+	color: #343740;
+	font-family: Parisienne;
+	font-size: 50px;
+	text-align: center;
+}
+
+html {
+	background-color: #F2F2F2;
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Shadows Into Light';
+}
+
+#picture img {
+	margin-top: 3em;
+	margin-left: 37.5em;
+	border: 7px #94C6F2 solid;
+	border-radius: 1em;
+}
+
+#navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #7E8C4A; 
+} 
+
+#navbar ul li {  
+	font-family: 'Shadows Into Light';
+	font-size: 20px;
+	display: inline;
+	margin: 20px;
+} 
+
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #F2F2F2; 
+	background-color: #7E8C4A; 
+} 
+
+#navbar ul li a:hover { 
+	color: #7E8C4A; 
+	background-color: #F2F2F2; 
+} 
+
+#icon-menu ul {
+	list-style-type: none;
+	padding-left: 29em;
+}
+
+#icon-menu ul li {
+	display: inline;
+	margin: 15px;
+}
