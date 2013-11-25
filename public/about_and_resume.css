@@ -3,7 +3,7 @@
 	src: url('monogram.ttf');
 }
 
-#monogram {
+.monogram {
 	background-color: #222B40;
 	border: 5px solid #222B40;
 	border-radius: 35px;
@@ -16,6 +16,14 @@
 	text-decoration: none;
 }
 
-#monogram:hover {
+.monogram:hover {
 	color: #fff;
+}
+
+iframe {
+	height: 620px;
+	width: 50%;
+	margin-left: 25%;
+	frameborder: 0px;
+	scrolling: auto;
 }
