@@ -6,11 +6,12 @@
 #monogram {
 	background-color: #222B40;
 	border: 5px solid #222B40;
-	border-radius: 76px 5px;
+	border-radius: 35px;
 	color: #FF8B6E;
 	display: inline-block;
 	font-family: Monogram;
 	font-size: 7em;
+	margin-left: 40%;
 	padding: 10px;
 	text-decoration: none;
 }
