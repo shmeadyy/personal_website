@@ -1,24 +1,30 @@
-h1 {
-	color: #222B40;
-	font-family: 'Bevan', cursive;
-	font-size: 3em;
-	text-align: center;
-}
 
 body {
-	background-image: url('colorful_wood.jpeg');
+	background-image: url('mint.jpeg');
+	background-size: cover;
+	background-position: center;
 	font-size: 16px;
 	font-family: 'Shadows Into Light';
 }
 
+#name {
+	font-family: 'Ruthie', cursive;
+	color: #222B40;
+	display: inline-block;
+	font-size: 5em;
+	margin-left: 38%;
+}
+
 #picture img {
-	margin-top: 3em;
-	margin-left: 37.5em;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	margin-left: 41.5%;
 	border: 5px #222B40 solid;
 	border-radius: 1em;
 }
 
 #navbar ul { 
+	border-radius: 5px;
 	margin: 0; 
 	padding: 5px; 
 	list-style-type: none; 
@@ -34,6 +40,7 @@ body {
 } 
 
 #navbar ul li a { 
+	border-radius: 5px;
 	text-decoration: none; 
 	padding: .2em 1em; 
 	color: #fff; 
@@ -46,11 +53,16 @@ body {
 } 
 
 #icon-menu ul {
-	list-style-type: none;
-	padding-left: 30em;
+	list-style-type: none; 
+	margin-left: 34%;
 }
 
 #icon-menu ul li {
 	display: inline;
 	margin: 10px;
+}
+
+#icon-menu ul li img:hover {
+	background-color: #F2F2F2;
+	border-radius: 11px;
 }
