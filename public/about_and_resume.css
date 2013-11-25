@@ -27,3 +27,7 @@ iframe {
 	frameborder: 0px;
 	scrolling: auto;
 }
+
+#home {
+	font-size: 3em;
+}
