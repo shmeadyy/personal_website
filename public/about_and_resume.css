@@ -21,13 +21,22 @@
 }
 
 iframe {
-	height: 620px;
+	height: 530px;
 	width: 50%;
-	margin-left: 25%;
+	margin-left: 20%;
 	frameborder: 0px;
 	scrolling: auto;
 }
 
-#home {
-	font-size: 3em;
+#home:hover {
+	border-radius: 33px;
+	background-color: #FF8B6E;
+}
+
+#resume {
+	font-family: 'Ruthie', cursive;
+	color: #222B40;
+	font-size: 4.5em;
+	margin: 0;
+	text-align: center;
 }
