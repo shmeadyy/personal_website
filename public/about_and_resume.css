@@ -33,7 +33,11 @@ iframe {
 	background-color: #FF8B6E;
 }
 
-#resume {
+#home:active {
+	background-color: white;
+}
+
+.headline {
 	font-family: 'Ruthie', cursive;
 	color: #222B40;
 	font-size: 4.5em;
