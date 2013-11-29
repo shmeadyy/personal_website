@@ -44,3 +44,10 @@ iframe {
 	margin: 0;
 	text-align: center;
 }
+
+#about_me {
+	background-color: #FFEBE4;
+	font-size: 2em;
+	margin-left: 2em;
+	width: 50%;
+}
