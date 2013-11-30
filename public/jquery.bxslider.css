@@ -13,7 +13,6 @@
 
 /** RESET AND LAYOUT
 ===================================*/
-
 .bx-wrapper {
 	position: relative;
 	margin: 0 auto 60px;
@@ -22,7 +21,7 @@
 }
 
 .bx-wrapper img {
-	max-width: 59%;
+	max-width: 100%;
 	display: block;
 }
 
@@ -34,6 +33,7 @@
 	-webkit-box-shadow: 0 0 5px #ccc;
 	box-shadow: 0 0 5px #ccc;
 	border: solid #fff 5px;
+	height: 482px;
 	left: -5px;
 	background: #fff;
 }
@@ -51,7 +51,7 @@
 	min-height: 50px;
 	background: url(images/bx_loader.gif) center center no-repeat #fff;
 	height: 100%;
-	width: 59%;
+	width: 100%;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -185,7 +185,7 @@
 	left: 0;
 	background: #666\9;
 	background: rgba(80, 80, 80, 0.75);
-	width: 59%; /*100%*/
+	width: 100%;
 }
 
 .bx-wrapper .bx-caption span {
@@ -194,4 +194,14 @@
 	display: block;
 	font-size: .85em;
 	padding: 10px;
+}
+
+.inner {
+	width: 616px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.li {
+	width: 670px;
 }
