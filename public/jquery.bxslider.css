@@ -33,7 +33,6 @@
 	-webkit-box-shadow: 0 0 5px #ccc;
 	box-shadow: 0 0 5px #ccc;
 	border: solid #fff 5px;
-	height: 482px;
 	left: -5px;
 	background: #fff;
 }
@@ -204,4 +203,8 @@
 
 .li {
 	width: 670px;
+}
+
+.bx-wrapper .bx-viewport {
+	height: 430px;
 }
