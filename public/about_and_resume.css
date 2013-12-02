@@ -46,6 +46,7 @@ iframe {
 }
 
 #about_me {
+	font-family: 'Nixie One', cursive;
 	background-color: #FFE7EC;
 	font-size: 2em;
 	margin-left: 2%;

@@ -64,7 +64,8 @@
 	font-size: .85em;
 	font-family: Arial;
 	font-weight: bold;
-	color: #666;
+	color: #FF8B6E;
+	padding-left: 9em;
 	padding-top: 20px;
 }
 
@@ -188,7 +189,7 @@
 }
 
 .bx-wrapper .bx-caption span {
-	color: #fff;
+	color: #FF8B6E;
 	font-family: Arial;
 	display: block;
 	font-size: .85em;
