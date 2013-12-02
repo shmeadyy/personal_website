@@ -46,9 +46,10 @@ iframe {
 }
 
 #about_me {
-	background-color: #FFEBE4;
+	background-color: #FFE7EC;
 	font-size: 2em;
-	margin-left: 2em;
+	margin-left: 2%;
 	opacity: 0.7;
-	width: 50%;
+	text-align: justify;
+	width: 97%;
 }
