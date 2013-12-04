@@ -21,11 +21,12 @@
  
 .caption {
 	display: none;
+	background: rgba(0, 0, 0, 0.6);
 	position: absolute;
 	top: 0;
-	left: 0;
+	left: 6px;
 	width: 100%;
-	height: 100%;
+	height: 84%;
 }
 
 .caption h3, .caption p {
@@ -36,7 +37,7 @@
 	margin: 20px 20px 10px;
 }
 .caption p {
-	font-size: .75em;
+	font-size: 0.85em;
 	line-height: 1.5em;
 	margin: 0 20px 15px;
 }
