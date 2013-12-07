@@ -3,6 +3,11 @@
 	src: url('/monogram.ttf');
 }
 
+@font-face {
+	font-family: Sullivan;
+	src: url('/Sullivan-Bevel.otf');
+}
+
 .monogram {
 	background-color: #222B40;
 	border: 5px solid #222B40;
@@ -55,5 +60,19 @@
 }
 
 .resume h1 {
-	font-family: 'Gravitas One', cursive;
+	font-family: 'Sullivan';
+	font-size: 4em;
+	letter-spacing: 0.09em;
+	margin: 0;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Nixie One', cursive;
+	margin: 0;
+	text-decoration: underline;
+}
+
+h4 {
+	margin: 0;
 }
