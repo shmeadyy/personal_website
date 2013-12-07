@@ -1,21 +1,21 @@
 @font-face {
 	font-family: Monogram;
-	src: url('/monogram.ttf');
+	src: url('/fonts/monogram.ttf');
 }
 
 @font-face {
 	font-family: Sullivan;
-	src: url('/Sullivan-Regular.otf');
+	src: url('/fonts/Sullivan-Regular.otf');
 }
 
 @font-face {
 	font-family: Edmondsans-Bold;
-	src: url('/Edmondsans-Bold.otf');
+	src: url('/fonts/Edmondsans-Bold.otf');
 }
 
 @font-face {
 	font-family: Edmondsans-Regular;
-	src: url('/Edmondsans-Regular.otf');
+	src: url('/fonts/Edmondsans-Regular.otf');
 }
 
 .monogram {
@@ -75,24 +75,28 @@
 	font-size: 4em;
 	letter-spacing: 0.09em;
 	margin: 0;
+	margin-bottom: 1em;
 	text-align: center;
 }
 
 h3 {
 	font-family: Edmondsans-Bold;
 	margin: 0;
+	text-align: center;
 	text-decoration: underline;
-}
-
-h4 {
-	margin: 0;
 }
 
 .dates {
 	display: inline-block;
 	float: right;
+	text-align: right;
 }
 
 .dates p {
 	margin: 0;
+}
+
+.title {
+	font-family: Edmondsans-Bold;
+	font-style: italic;
 }
