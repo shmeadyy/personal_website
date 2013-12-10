@@ -66,6 +66,8 @@
 .resume {
 	background-color: white;
 	width: 90%;
+	padding-left: 20px;
+	padding-right: 20px;
 	margin-left: 4%;
 	font-family: Edmondsans-Regular;
 }
@@ -99,4 +101,8 @@ h3 {
 .title {
 	font-family: Edmondsans-Bold;
 	font-style: italic;
+}
+
+li {
+	width: 80%;
 }
