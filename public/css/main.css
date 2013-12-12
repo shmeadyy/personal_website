@@ -24,6 +24,18 @@ body {
 	z-index: 3;
 }
 
+#anchor {
+	border-radius: 72px;
+	margin-top: 3em;
+	margin-left: 34.5em;
+}
+
+#quote {
+	font-family: 'La Belle Aurore', cursive;
+	margin-top: 27px;
+	text-align: center;
+	color: white;
+}
 #name {
 	font-family: 'Amatic SC', cursive;
 	color: white;
@@ -42,8 +54,8 @@ body {
 } 
 
 #navbar ul li {  
-	font-family: 'Shadows Into Light';
-	font-size: 20px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
 	display: inline;
 	margin: 20px;
 } 
@@ -62,7 +74,7 @@ body {
 
 #icon-menu ul {
 	list-style-type: none; 
-	margin-left: 34%;
+	margin-left: 32%;
 }
 
 #icon-menu ul li {
@@ -72,5 +84,5 @@ body {
 
 #icon-menu ul li img:hover {
 	background-color: #FFEBE4;
-	border-radius: 11px;
+	border-radius: 32px;
 }
