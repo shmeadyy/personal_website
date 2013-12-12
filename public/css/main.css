@@ -52,14 +52,14 @@ body {
 	border-radius: 5px;
 	text-decoration: none; 
 	padding: .2em 1em; 
-	color: #FF8B6E; 
+	color: white; 
 	background-color: #168A8F; 
 } 
 
 #navbar ul li a:hover { 
-	color: #168A8F; 
-	background-color: #FF8B6E; 
-} 
+	color: #003058; 
+/*	background-color: #FF8B6E; 
+*/} 
 
 #icon-menu ul {
 	list-style-type: none; 
