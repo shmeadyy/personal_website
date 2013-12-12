@@ -1,25 +1,35 @@
 body {
-	background-image: url('/images/mint.jpeg');
-	background-size: cover;
-	background-position: center;
+	background-color: #003058;
+	margin: 0;
+	height: 100%;
 	font-size: 16px;
 	font-family: 'Shadows Into Light';
 }
 
-#name {
-	font-family: 'Ruthie', cursive;
-	color: #222B40;
-	display: inline-block;
-	font-size: 5em;
-	margin-left: 38%;
+.panels {
+	width: 100%;
+	display: block;
+	position: fixed;
 }
 
-#picture img {
-	margin-top: 2em;
-	margin-bottom: 1em;
-	margin-left: 42%;
-	border: 5px #222B40 solid;
-	border-radius: 1em;
+#panel_1 {
+	height: 219px;
+	margin-top: 0px;
+	background-color: #003058;
+}
+
+#panel_2 {
+	height: 219px;
+	background-color: #F04C40;
+}
+
+#name {
+	font-family: 'Amatic SC', cursive;
+	color: white;
+	margin-top: 1em;
+	margin-left: 6.5em;
+	display: inline-block;
+	font-size: 5em;
 }
 
 #navbar ul { 
@@ -28,7 +38,7 @@ body {
 	padding: 5px; 
 	list-style-type: none; 
 	text-align: center; 
-	background-color: #222B40; 
+	background-color: #168A8F; 
 } 
 
 #navbar ul li {  
@@ -43,11 +53,11 @@ body {
 	text-decoration: none; 
 	padding: .2em 1em; 
 	color: #FF8B6E; 
-	background-color: #222B40; 
+	background-color: #168A8F; 
 } 
 
 #navbar ul li a:hover { 
-	color: #222B40; 
+	color: #168A8F; 
 	background-color: #FF8B6E; 
 } 
 
