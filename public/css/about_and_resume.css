@@ -1,9 +1,4 @@
 @font-face {
-	font-family: Monogram;
-	src: url('/fonts/monogram.ttf');
-}
-
-@font-face {
 	font-family: Sullivan;
 	src: url('/fonts/Sullivan-Regular.otf');
 }
@@ -18,49 +13,16 @@
 	src: url('/fonts/Edmondsans-Regular.otf');
 }
 
-.monogram {
-	background-color: #222B40;
-	border: 5px solid #222B40;
-	border-radius: 35px;
-	color: #FF8B6E;
-	display: inline-block;
-	font-family: Monogram;
-	font-size: 7em;
-	margin-left: 41%;
-	padding: 10px;
-	text-decoration: none;
-}
-
-.monogram:hover {
-	color: #fff;
-}
-
-#home:hover {
-	border-radius: 33px;
-	background-color: #FFEBE4;
-}
-
-#home:active {
-	background-color: white;
-}
-
-.headline {
-	font-family: 'Ruthie', cursive;
-	color: #222B40;
-	font-size: 4.5em;
-	margin: 0;
-	text-align: center;
-}
-
 #about_me {
-	font-family: 'Nixie One', cursive;
-	background-color: white;
+	font-family: 'Satisfy', cursive;
+	color: white;
+	float: right;
 	font-size: 1.5em;
 	font-weight: bold;
-	margin-left: 2%;
-	opacity: 0.85;
+	margin-top: 2em;
+	margin-right: 20px;
 	text-align: justify;
-	width: 97%;
+	width: 50%;
 }
 
 .resume {
