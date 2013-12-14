@@ -4,8 +4,8 @@
 	float: right;
 	font-size: 1.5em;
 	font-weight: bold;
-	margin-top: 2em;
-	margin-right: 20px;
+	margin-top: 1em;
+	margin-right: 30px;
 	text-align: justify;
 	width: 50%;
 }
@@ -51,4 +51,9 @@ h3 {
 
 li {
 	width: 80%;
+}
+
+#me {
+	margin-top: 4em;
+	margin-left: 6.5em;
 }
