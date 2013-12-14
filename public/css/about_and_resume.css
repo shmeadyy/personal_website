@@ -4,11 +4,6 @@
 }
 
 @font-face {
-	font-family: Edmondsans-Bold;
-	src: url('/fonts/Edmondsans-Bold.otf');
-}
-
-@font-face {
 	font-family: Edmondsans-Regular;
 	src: url('/fonts/Edmondsans-Regular.otf');
 }
@@ -44,10 +39,10 @@
 }
 
 h3 {
-	font-family: Edmondsans-Bold;
+	font-family: 'Satisfy', cursive;
 	margin: 0;
 	text-align: center;
-	text-decoration: underline;
+	color: white;
 }
 
 .dates {
