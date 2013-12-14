@@ -1,13 +1,3 @@
-@font-face {
-	font-family: Sullivan;
-	src: url('/fonts/Sullivan-Regular.otf');
-}
-
-@font-face {
-	font-family: Edmondsans-Regular;
-	src: url('/fonts/Edmondsans-Regular.otf');
-}
-
 #about_me {
 	font-family: 'Satisfy', cursive;
 	color: white;
@@ -26,7 +16,6 @@
 	padding-left: 20px;
 	padding-right: 20px;
 	margin-left: 4%;
-	font-family: Edmondsans-Regular;
 }
 
 .resume h1 {
