@@ -20,11 +20,11 @@
 }
 
 .headline {
-	color: #F04C40;
-	font-family: 'Satisfy', cursive;
+	color: white;
+	font-family: 'Londrina Outline', cursive;
 	text-align: center;
 	margin-bottom: 0;
-	margin-top: 1em;
+	font-size: 41px;
 }
  
 .caption {
@@ -57,4 +57,12 @@
 .caption a.learn-more:hover {
 	background: #fff;
 	color: #8D2663;
+}
+
+.project-titles {
+	font-family: 'Amatic SC', cursive;
+	color: white;
+	font-size: 31px;
+	margin: 0;
+	text-align: center;
 }

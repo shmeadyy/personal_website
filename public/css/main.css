@@ -11,14 +11,14 @@ body {
 	position: fixed;
 }
 
-#panel_1 {
+.panel_1 {
 	height: 219px;
 	margin-top: 0px;
 	background-color: #003058;
 	padding-bottom: 115px;
 }
 
-#panel_2 {
+.panel_2 {
 	height: 4000px;
 	background-color: #F04C40;
 	z-index: 3;
